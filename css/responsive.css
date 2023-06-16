@@ -1,0 +1,19 @@
+/* extra all device */
+@media (min-width: 1px) and (max-width: 991.9px){
+    *{
+        padding: 0px;
+        margin: 0px;
+    }
+    .container{
+        width: 100%;
+        margin: 0px auto;
+    }
+.testimonial .row{
+    display: block;
+    text-align: center;
+    margin: 70px 10px 10px 0px;
+}
+.banner .img-fluid {
+    margin: 55px 0px 10px 0px !important;
+}
+}
